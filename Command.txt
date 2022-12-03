@@ -18,3 +18,4 @@ git config --global user.email -
 git restore - Отмена отслеживания файла
 git push origin main - Отправка на сервер ветки main
 git remote add origin - подключение к репозиторию
+git push --set-upstream origin 	- Опубликовать ветку на удалённый репозиторий
